@@ -6,7 +6,7 @@ An app that takes user text into a note that is saved on a server. They can be r
 [GitHub](https://github.com/jacobdoty-20/11-notetaker)
 ```
 ```md
-[Heroku](https://github.com/jacobdoty-20/11-notetaker)
+[Heroku](https://git.heroku.com/tranquil-cove-71565.git)
 ```
 
 ## Installation
